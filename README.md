@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AnzaGitHub
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on ...
 - 📫 ummeranza@gmail.com
 
 <!---
