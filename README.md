@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @AnzaGitHub
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics
-- 📫 ummeranza@gmail.com
+# About Me
+### I am a ECE Graduate with a junior level work experience as Graduate Apprentice in ISRO, Trivandrum. I worked there in a test facility for testing control thrusters, LAM engines etc. My area of work included: data acquisition using LabVIEW software during the hot test of control thrusters and preliminary test data processing using software packages like MS Excel, Grapher, Easy Plot etc.
+### Currently I am pursuing Post Graduate Certification in Data Analytics for Engineers in Edubridge.
+# Connect with Me
+### Mail ID: ummeranza@gmail.com
+### Linkedin: https://www.linkedin.com/in/anza-ummer-660460215/
+# Languages I Know
+### Python, R, MySQL
+# Tools I am Familiar with
+### Tableau, Excel
 
 <!---
 AnzaGitHub/AnzaGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
