@@ -7,7 +7,7 @@
 # Languages I Know
 ### Python, R, MySQL
 # Tools I am Familiar with
-### Tableau, Excel
+### Anaconda, RStudio, MongoDB, Tableau, Excel
 
 <!---
 AnzaGitHub/AnzaGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
