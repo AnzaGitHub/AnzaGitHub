@@ -1,5 +1,5 @@
 # About Me
-### My Git Repository for  Data Science projects  
+### Data Science enthusiast. Likes coding, EDAs especially visualization.  
 # Connect with Me
 ### Mail ID: ummeranza@gmail.com
               
