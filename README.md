@@ -3,9 +3,9 @@
 # Connect with Me
 ### Mail ID: ummeranza@gmail.com                       
 # Languages I Know
-### Python, R, MySQL, SAS, C
+### SQL, Python, R, SAS, C
 # Tools I am Familiar with
-### Anaconda, RStudio, MongoDB, Tableau, Excel
+### MySQL, MongoDB, Anaconda Jupyter Notebook, RStudio, Tableau, Excel
 
 <!---
 AnzaGitHub/AnzaGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
