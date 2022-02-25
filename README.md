@@ -1,5 +1,5 @@
 # About Me
-### Data Science enthusiast. Like coding, EDAs especially visualization.  
+### Data Science enthusiast. In awe of the insights uncovered by Rows AND Rows OR Columns AND Columns and viceversa. And ofcourse, predicting what's next using AI.
 # Connect with Me
 ### Mail ID: ummeranza@gmail.com
               
