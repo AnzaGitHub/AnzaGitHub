@@ -1,5 +1,5 @@
 # About Me
-### Data Science enthusiast. Likes coding, EDAs especially visualization.  
+### Data Science enthusiast. Like coding, EDAs especially visualization.  
 # Connect with Me
 ### Mail ID: ummeranza@gmail.com
               
