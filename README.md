@@ -8,7 +8,8 @@
 ### MySQL, MongoDB, Anaconda Jupyter Notebook, RStudio, Tableau, Excel
 
 
-https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
+![linked-in-g1dd73b0c2_640](https://user-images.githubusercontent.com/85157159/158195230-0bd7d404-627f-4ac8-805e-349fedcb91fd.png)
+
 
 <!---
 AnzaGitHub/AnzaGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
