@@ -2,7 +2,7 @@
 ### Data Science enthusiast. In awe of the insights uncovered by Rows AND Rows OR Columns AND Columns and viceversa. And ofcourse, predicting what's next using AI.
 # Connect with Me
 ### Mail ID: ummeranza@gmail.com 
-<!DOCTYPE html>
+<!DOCTYPE html>                                                                                                                                                   
 <html>
    <head>
    </head>
@@ -13,7 +13,17 @@
       </a>
    </body>
 </html>
-
+<!DOCTYPE html>                                                                                                                                                   
+<html>
+   <head>
+   </head>
+   <body>
+      <a href="https://www.sololearn.com/profile/21889938">
+         <img alt="Sololearn" src="https://worldvectorlogo.com/logo/sololearn-2"
+         width=25" height="25">
+      </a>
+   </body>
+</html>
                              
 # Languages I Know
 ### SQL, Python, R, SAS, C
