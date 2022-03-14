@@ -11,13 +11,11 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>HTML Image as link</title>
    </head>
    <body>
-      The following image works as a link:<br>
       <a href="https://www.linkedin.com/in/anzaummar/">
          <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"
-         width=150" height="70">
+         width=50" height="50">
       </a>
    </body>
 </html>
