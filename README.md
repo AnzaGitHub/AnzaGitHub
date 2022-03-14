@@ -9,10 +9,12 @@
    <body>
       <a href="https://www.hackerrank.com/ummeranza">
          <img alt="HackerRank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-         width=20" height="20">
+         width=25" height="25">
       </a>
    </body>
 </html>
+
+                             
 # Languages I Know
 ### SQL, Python, R, SAS, C
 # Tools I am Familiar with
