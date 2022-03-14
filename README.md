@@ -7,7 +7,7 @@
 # Tools I am Familiar with
 ### MySQL, MongoDB, Anaconda Jupyter Notebook, RStudio, Tableau, Excel
 
-  https://images.app.goo.gl/n4jMMqHLBYzoa5dt8
+https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
 <!---
 AnzaGitHub/AnzaGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
