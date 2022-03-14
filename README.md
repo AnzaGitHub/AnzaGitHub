@@ -1,7 +1,7 @@
 # About Me
 ### Data Science enthusiast. In awe of the insights uncovered by Rows AND Rows OR Columns AND Columns and viceversa. And ofcourse, predicting what's next using AI.
 # Connect with Me
-### Mail ID: ummeranza@gmail.com 
+### Mail ID: ummeranza@gmail.com
 <!DOCTYPE html>                                                                                                                                                   
 <html>
    <head>
@@ -19,7 +19,7 @@
    </head>
    <body>
       <a href="https://www.sololearn.com/profile/21889938">
-         <img alt="Sololearn" src="https://worldvectorlogo.com/logo/sololearn-2"
+         <img alt="Sololearn" src="https://images.app.goo.gl/iUkL1Ji3QnRNZiez6"
          width=25" height="25">
       </a>
    </body>
