@@ -1,5 +1,5 @@
 # About Me
-### Data Science enthusiast. In awe of the insights uncovered by Rows AND Rows OR Columns AND Columns and viceversa. And ofcourse, predicting what's next using AI.
+### In awe of the insights uncovered by Rows AND Rows OR Columns AND Columns and viceversa. And of course, predictions using AI.
 # Connect with Me
 ### Mail ID: ummeranza@gmail.com
 <!DOCTYPE html>                                                                                                                                                   
