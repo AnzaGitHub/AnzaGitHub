@@ -19,7 +19,7 @@
    </head>
    <body>
       <a href="https://www.sololearn.com/profile/21889938">
-         <img alt="Sololearn" src="https://images.app.goo.gl/iUkL1Ji3QnRNZiez6"
+         <img alt="Sololearn" src="https://pbs.twimg.com/profile_images/1410707398021550084/MmGTT4dY_400x400.jpg"
          width=25" height="25">
       </a>
    </body>
